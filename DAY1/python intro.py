@@ -1,0 +1,23 @@
+Python 3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+... The Features of Python:
+... 
+...     
+...   Python is a high-level, interpreted, and general-purpose programming language.
+...  I chose Python because its simple syntax lets me focus on solving problems instead of complex language rules.
+...  
+...  It has a rich ecosystem of libraries, which speeds up development for web applications, automation, data analysis, and AI.
+...  
+... Python is cross-platform, has automatic memory management, and is supported by a large developer community.
+... 
+... While it may not match C or C++ for raw performance, it provides an excellent balance of productivity, readability, and versatility, making it one of the most widely used languages in the software industry.
+... 
+... 1. Easy to learn, write and Understand
+... 2. Simple syntax
+... 3. Interpreted Language
+... 4. Object Oriented Language
+... 5. Strong Libraries
+... 6. Many Built-In Data Types
+... 7. Open Source
+... 8. Used in many community
